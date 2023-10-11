@@ -1,0 +1,80 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/drawable/layout_background.xml" value="0.135" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/drawable/layout_button.xml" value="0.135" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/drawable/layout_inner.xml" value="0.135" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/drawable/layout_top.xml" value="0.135" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_hayvonotbog.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_home.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_internet.xml" value="0.1" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_kungil.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_laboratory.xml" value="0.264" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_lesson.xml" value="0.2" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_literature.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_muzey.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_oromgoh.xml" value="0.264" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_reader.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/activity_test.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Darslar amaliyoti/Asror domla/Tarixiy obidalar/Tarixiy obidalar/app/src/main/res/layout/toolbar.xml" value="0.10462962962962963" />
+        <entry key="..\:/Android/Muftiy devoni/Dasturi/Dasturi/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/drawable/layout_button.xml" value="0.23" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_internet.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_intersting.xml" value="0.4" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_laboratory.xml" value="0.1" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_lesson.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_literature.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_reader.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_test.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/activity_web.xml" value="0.11302083333333333" />
+        <entry key="..\:/Android/Yangisi/pdf/pdf/app/src/main/res/layout/avtivity_interesting.xml" value="0.22777777777777777" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/drawable/layout_inner.xml" value="0.209" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/drawable/layout_top.xml" value="0.209" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/activity_fructi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/activity_hard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/activity_lesson.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/activity_mobile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/activity_network.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/activity_reader.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/activity_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Zakazlar/Dasturi ingliz tili/Dasturi/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/drawable-v24/btn_rounded.xml" value="0.215" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/drawable-v24/ic_logo.xml" value="0.215" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/drawable-v24/layout_inner.xml" value="0.215" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/drawable-v24/layout_top.xml" value="0.215" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/drawable/layout_button.xml" value="0.1" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/layout/activity_laboratory.xml" value="0.12864583333333332" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/layout/activity_lesson.xml" value="0.1" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/layout/activity_literature.xml" value="0.12864583333333332" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/layout/activity_reader.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/layout/activity_test.xml" value="0.12864583333333332" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/layout/toolbar.xml" value="0.22685185185185186" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.125" />
+        <entry key="..\:/Android/pdf/pdf/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.125" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_hard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_hardware.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_lesson.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_mobile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_network.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_oyna.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_reader.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_test.xml" value="0.11302083333333333" />
+        <entry key="..\:/Android/zebo domla/Dasturi/app/src/main/res/layout/activity_video.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WolfRain/Desktop/pdf/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/yuzi"
+        android:label="11-sinf. Informatika va axborot texnologiyalari"
+        android:roundIcon="@drawable/uchn"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Pdf">
+        <activity
+            android:name=".MainActivity"
+
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FileDisplayActivity"/>
+        <activity android:name=".MundarijaActivity"/>
+        <activity android:name=".BirActivity"/>
+        <activity android:name=".IkkiActivity"/>
+        <activity android:name=".UcActivity"/>
+
+        <activity android:name=".TurtActivity"/>
+
+
+    </application>
+
+</manifest>
